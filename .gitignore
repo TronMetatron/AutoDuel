@@ -1,0 +1,10 @@
+/target
+/saves
+# your copy of Autoduel, and what the game builds from it
+/original
+/assets/gfx
+/assets/data
+/assets/art.json
+/assets/original.json
+/assets/.import
+*.swp

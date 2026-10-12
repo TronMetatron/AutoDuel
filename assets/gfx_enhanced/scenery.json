@@ -1,0 +1,186 @@
+[
+ {
+  "index": 0,
+  "name": "rail_v",
+  "w": 16,
+  "h": 16,
+  "ax": 4,
+  "ay": 8
+ },
+ {
+  "index": 1,
+  "name": "rail_h_short",
+  "w": 24,
+  "h": 8,
+  "ax": 8,
+  "ay": 4
+ },
+ {
+  "index": 2,
+  "name": "rail_h_long",
+  "w": 56,
+  "h": 8,
+  "ax": 24,
+  "ay": 4
+ },
+ {
+  "index": 3,
+  "name": "rail_v_long",
+  "w": 16,
+  "h": 48,
+  "ax": 4,
+  "ay": 24
+ },
+ {
+  "index": 4,
+  "name": "rail_corner_a",
+  "w": 16,
+  "h": 8,
+  "ax": 4,
+  "ay": 4
+ },
+ {
+  "index": 5,
+  "name": "rail_corner_b",
+  "w": 16,
+  "h": 8,
+  "ax": 4,
+  "ay": 4
+ },
+ {
+  "index": 6,
+  "name": "rail_corner_c",
+  "w": 16,
+  "h": 8,
+  "ax": 4,
+  "ay": 4
+ },
+ {
+  "index": 7,
+  "name": "rail_corner_d",
+  "w": 16,
+  "h": 8,
+  "ax": 4,
+  "ay": 4
+ },
+ {
+  "index": 8,
+  "name": "grass_tuft",
+  "w": 16,
+  "h": 8,
+  "ax": 6,
+  "ay": 4
+ },
+ {
+  "index": 9,
+  "name": "tree_a",
+  "w": 40,
+  "h": 23,
+  "ax": 16,
+  "ay": 12
+ },
+ {
+  "index": 10,
+  "name": "tree_b",
+  "w": 40,
+  "h": 18,
+  "ax": 18,
+  "ay": 8
+ },
+ {
+  "index": 11,
+  "name": "grave_cross",
+  "w": 8,
+  "h": 7,
+  "ax": 2,
+  "ay": 4
+ },
+ {
+  "index": 12,
+  "name": "headstone",
+  "w": 8,
+  "h": 6,
+  "ax": 2,
+  "ay": 2
+ },
+ {
+  "index": 13,
+  "name": "pole",
+  "w": 16,
+  "h": 12,
+  "ax": 4,
+  "ay": 6
+ },
+ {
+  "index": 14,
+  "name": "post_small",
+  "w": 8,
+  "h": 7,
+  "ax": 2,
+  "ay": 4
+ },
+ {
+  "index": 15,
+  "name": "rock",
+  "w": 16,
+  "h": 7,
+  "ax": 4,
+  "ay": 4
+ },
+ {
+  "index": 16,
+  "name": "sign",
+  "w": 8,
+  "h": 11,
+  "ax": 2,
+  "ay": 6
+ },
+ {
+  "index": 17,
+  "name": "building",
+  "w": 40,
+  "h": 18,
+  "ax": 14,
+  "ay": 8
+ },
+ {
+  "index": 18,
+  "name": "cow_a",
+  "w": 24,
+  "h": 11,
+  "ax": 10,
+  "ay": 6
+ },
+ {
+  "index": 19,
+  "name": "cow_b",
+  "w": 24,
+  "h": 9,
+  "ax": 8,
+  "ay": 4
+ },
+ {
+  "index": 20,
+  "name": "car_wreck",
+  "w": 32,
+  "h": 8,
+  "ax": 12,
+  "ay": 4
+ },
+ {
+  "index": 21,
+  "name": "rubble_wall_v",
+  "w": 32,
+  "h": 58,
+  "ax": 12,
+  "ay": 28
+ },
+ {
+  "index": 22,
+  "name": "rubble_wall_h",
+  "w": 72,
+  "h": 24,
+  "ax": 28,
+  "ay": 12
+ }
+]

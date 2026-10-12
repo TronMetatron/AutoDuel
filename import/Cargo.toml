@@ -1,0 +1,10 @@
+[package]
+name = "cardul-import"
+version.workspace = true
+edition.workspace = true
+description = "Reads a player's own copy of Autoduel (DOS) and builds Cardul's classic graphics and world data from it"
+
+[dependencies]
+serde.workspace = true
+serde_json.workspace = true
+png.workspace = true

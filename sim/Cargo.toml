@@ -1,0 +1,9 @@
+[package]
+name = "cardul-sim"
+version.workspace = true
+edition.workspace = true
+description = "Cardul game rules: driver, cars, economy, story and the road/arena combat simulation (engine-free)"
+
+[dependencies]
+serde.workspace = true
+serde_json.workspace = true

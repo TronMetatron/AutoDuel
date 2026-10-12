@@ -1,0 +1,12 @@
+[package]
+name = "cardul-ui"
+version.workspace = true
+edition.workspace = true
+description = "Cardul screens and software renderer (engine-free): title, city, buildings, driving, HUD"
+
+[dependencies]
+cardul-sim = { path = "../sim" }
+serde.workspace = true
+serde_json.workspace = true
+png.workspace = true
+cardul-import = { path = "../import" }

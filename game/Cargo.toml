@@ -1,0 +1,11 @@
+[package]
+name = "cardul"
+version.workspace = true
+edition.workspace = true
+description = "Cardul - a Rust remake of Autoduel (Bevy front end)"
+
+[dependencies]
+cardul-ui = { path = "../ui" }
+cardul-sim = { path = "../sim" }
+cardul-import = { path = "../import" }
+bevy = { version = "=0.19.1", default-features = false, features = ["2d", "audio", "wav"] }

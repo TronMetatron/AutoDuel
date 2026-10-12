@@ -1,0 +1,874 @@
+[
+ {
+  "index": 0,
+  "name": "car_heading00",
+  "w": 16,
+  "h": 18,
+  "ax": 7,
+  "ay": 8
+ },
+ {
+  "index": 1,
+  "name": "car_heading01",
+  "w": 24,
+  "h": 18,
+  "ax": 9,
+  "ay": 8
+ },
+ {
+  "index": 2,
+  "name": "car_heading02",
+  "w": 24,
+  "h": 17,
+  "ax": 9,
+  "ay": 8
+ },
+ {
+  "index": 3,
+  "name": "car_heading03",
+  "w": 24,
+  "h": 14,
+  "ax": 11,
+  "ay": 6
+ },
+ {
+  "index": 4,
+  "name": "car_heading04",
+  "w": 24,
+  "h": 13,
+  "ax": 11,
+  "ay": 6
+ },
+ {
+  "index": 5,
+  "name": "car_heading05",
+  "w": 24,
+  "h": 14,
+  "ax": 11,
+  "ay": 6
+ },
+ {
+  "index": 6,
+  "name": "car_heading06",
+  "w": 24,
+  "h": 17,
+  "ax": 9,
+  "ay": 8
+ },
+ {
+  "index": 7,
+  "name": "car_heading07",
+  "w": 24,
+  "h": 18,
+  "ax": 9,
+  "ay": 8
+ },
+ {
+  "index": 8,
+  "name": "car_heading08",
+  "w": 16,
+  "h": 18,
+  "ax": 7,
+  "ay": 8
+ },
+ {
+  "index": 9,
+  "name": "car_heading09",
+  "w": 24,
+  "h": 18,
+  "ax": 11,
+  "ay": 8
+ },
+ {
+  "index": 10,
+  "name": "car_heading10",
+  "w": 24,
+  "h": 17,
+  "ax": 9,
+  "ay": 8
+ },
+ {
+  "index": 11,
+  "name": "car_heading11",
+  "w": 24,
+  "h": 14,
+  "ax": 11,
+  "ay": 6
+ },
+ {
+  "index": 12,
+  "name": "car_heading12",
+  "w": 24,
+  "h": 13,
+  "ax": 11,
+  "ay": 6
+ },
+ {
+  "index": 13,
+  "name": "car_heading13",
+  "w": 24,
+  "h": 14,
+  "ax": 11,
+  "ay": 6
+ },
+ {
+  "index": 14,
+  "name": "car_heading14",
+  "w": 24,
+  "h": 17,
+  "ax": 11,
+  "ay": 8
+ },
+ {
+  "index": 15,
+  "name": "car_heading15",
+  "w": 24,
+  "h": 18,
+  "ax": 9,
+  "ay": 8
+ },
+ {
+  "index": 16,
+  "name": "walker_f00",
+  "w": 16,
+  "h": 10,
+  "ax": 5,
+  "ay": 4
+ },
+ {
+  "index": 17,
+  "name": "walker_f01",
+  "w": 16,
+  "h": 10,
+  "ax": 5,
+  "ay": 4
+ },
+ {
+  "index": 18,
+  "name": "walker_f02",
+  "w": 16,
+  "h": 10,
+  "ax": 5,
+  "ay": 4
+ },
+ {
+  "index": 19,
+  "name": "walker_f03",
+  "w": 16,
+  "h": 10,
+  "ax": 5,
+  "ay": 4
+ },
+ {
+  "index": 20,
+  "name": "walker_f04",
+  "w": 16,
+  "h": 10,
+  "ax": 5,
+  "ay": 4
+ },
+ {
+  "index": 21,
+  "name": "walker_f05",
+  "w": 16,
+  "h": 10,
+  "ax": 5,
+  "ay": 4
+ },
+ {
+  "index": 22,
+  "name": "walker_f06",
+  "w": 16,
+  "h": 10,
+  "ax": 5,
+  "ay": 4
+ },
+ {
+  "index": 23,
+  "name": "walker_f07",
+  "w": 8,
+  "h": 10,
+  "ax": 5,
+  "ay": 4
+ },
+ {
+  "index": 24,
+  "name": "walker_f08",
+  "w": 16,
+  "h": 10,
+  "ax": 5,
+  "ay": 4
+ },
+ {
+  "index": 25,
+  "name": "walker_f09",
+  "w": 16,
+  "h": 10,
+  "ax": 5,
+  "ay": 4
+ },
+ {
+  "index": 26,
+  "name": "walker_f10",
+  "w": 8,
+  "h": 10,
+  "ax": 5,
+  "ay": 4
+ },
+ {
+  "index": 27,
+  "name": "vehicle_t0_N",
+  "w": 16,
+  "h": 11,
+  "ax": 5,
+  "ay": 6
+ },
+ {
+  "index": 28,
+  "name": "vehicle_t0_NE",
+  "w": 16,
+  "h": 13,
+  "ax": 7,
+  "ay": 6
+ },
+ {
+  "index": 29,
+  "name": "vehicle_t0_E",
+  "w": 16,
+  "h": 8,
+  "ax": 7,
+  "ay": 4
+ },
+ {
+  "index": 30,
+  "name": "vehicle_t0_SE",
+  "w": 16,
+  "h": 13,
+  "ax": 7,
+  "ay": 6
+ },
+ {
+  "index": 31,
+  "name": "vehicle_t0_S",
+  "w": 16,
+  "h": 11,
+  "ax": 5,
+  "ay": 6
+ },
+ {
+  "index": 32,
+  "name": "vehicle_t0_SW",
+  "w": 16,
+  "h": 13,
+  "ax": 7,
+  "ay": 6
+ },
+ {
+  "index": 33,
+  "name": "vehicle_t0_W",
+  "w": 16,
+  "h": 8,
+  "ax": 7,
+  "ay": 4
+ },
+ {
+  "index": 34,
+  "name": "vehicle_t0_NW",
+  "w": 16,
+  "h": 13,
+  "ax": 7,
+  "ay": 6
+ },
+ {
+  "index": 35,
+  "name": "vehicle_t1_N",
+  "w": 16,
+  "h": 14,
+  "ax": 7,
+  "ay": 6
+ },
+ {
+  "index": 36,
+  "name": "vehicle_t1_NE",
+  "w": 24,
+  "h": 15,
+  "ax": 9,
+  "ay": 8
+ },
+ {
+  "index": 37,
+  "name": "vehicle_t1_E",
+  "w": 24,
+  "h": 11,
+  "ax": 9,
+  "ay": 6
+ },
+ {
+  "index": 38,
+  "name": "vehicle_t1_SE",
+  "w": 24,
+  "h": 15,
+  "ax": 9,
+  "ay": 8
+ },
+ {
+  "index": 39,
+  "name": "vehicle_t1_S",
+  "w": 16,
+  "h": 14,
+  "ax": 7,
+  "ay": 6
+ },
+ {
+  "index": 40,
+  "name": "vehicle_t1_SW",
+  "w": 24,
+  "h": 15,
+  "ax": 9,
+  "ay": 8
+ },
+ {
+  "index": 41,
+  "name": "vehicle_t1_W",
+  "w": 24,
+  "h": 11,
+  "ax": 9,
+  "ay": 6
+ },
+ {
+  "index": 42,
+  "name": "vehicle_t1_NW",
+  "w": 24,
+  "h": 15,
+  "ax": 9,
+  "ay": 8
+ },
+ {
+  "index": 43,
+  "name": "vehicle_t2_N",
+  "w": 16,
+  "h": 18,
+  "ax": 7,
+  "ay": 8
+ },
+ {
+  "index": 44,
+  "name": "vehicle_t2_NE",
+  "w": 24,
+  "h": 17,
+  "ax": 9,
+  "ay": 8
+ },
+ {
+  "index": 45,
+  "name": "vehicle_t2_E",
+  "w": 24,
+  "h": 13,
+  "ax": 11,
+  "ay": 6
+ },
+ {
+  "index": 46,
+  "name": "vehicle_t2_SE",
+  "w": 24,
+  "h": 17,
+  "ax": 9,
+  "ay": 8
+ },
+ {
+  "index": 47,
+  "name": "vehicle_t2_S",
+  "w": 16,
+  "h": 18,
+  "ax": 7,
+  "ay": 8
+ },
+ {
+  "index": 48,
+  "name": "vehicle_t2_SW",
+  "w": 24,
+  "h": 17,
+  "ax": 9,
+  "ay": 8
+ },
+ {
+  "index": 49,
+  "name": "vehicle_t2_W",
+  "w": 24,
+  "h": 13,
+  "ax": 11,
+  "ay": 6
+ },
+ {
+  "index": 50,
+  "name": "vehicle_t2_NW",
+  "w": 24,
+  "h": 17,
+  "ax": 9,
+  "ay": 8
+ },
+ {
+  "index": 51,
+  "name": "vehicle_t3_N",
+  "w": 24,
+  "h": 19,
+  "ax": 9,
+  "ay": 10
+ },
+ {
+  "index": 52,
+  "name": "vehicle_t3_NE",
+  "w": 24,
+  "h": 21,
+  "ax": 11,
+  "ay": 10
+ },
+ {
+  "index": 53,
+  "name": "vehicle_t3_E",
+  "w": 24,
+  "h": 15,
+  "ax": 11,
+  "ay": 8
+ },
+ {
+  "index": 54,
+  "name": "vehicle_t3_SE",
+  "w": 24,
+  "h": 21,
+  "ax": 11,
+  "ay": 10
+ },
+ {
+  "index": 55,
+  "name": "vehicle_t3_S",
+  "w": 24,
+  "h": 19,
+  "ax": 9,
+  "ay": 10
+ },
+ {
+  "index": 56,
+  "name": "vehicle_t3_SW",
+  "w": 24,
+  "h": 21,
+  "ax": 11,
+  "ay": 10
+ },
+ {
+  "index": 57,
+  "name": "vehicle_t3_W",
+  "w": 24,
+  "h": 15,
+  "ax": 11,
+  "ay": 8
+ },
+ {
+  "index": 58,
+  "name": "vehicle_t3_NW",
+  "w": 24,
+  "h": 21,
+  "ax": 11,
+  "ay": 10
+ },
+ {
+  "index": 59,
+  "name": "vehicle_t4_N",
+  "w": 16,
+  "h": 13,
+  "ax": 5,
+  "ay": 6
+ },
+ {
+  "index": 60,
+  "name": "vehicle_t4_NE",
+  "w": 16,
+  "h": 12,
+  "ax": 7,
+  "ay": 6
+ },
+ {
+  "index": 61,
+  "name": "vehicle_t4_E",
+  "w": 16,
+  "h": 8,
+  "ax": 7,
+  "ay": 4
+ },
+ {
+  "index": 62,
+  "name": "vehicle_t4_SE",
+  "w": 16,
+  "h": 12,
+  "ax": 7,
+  "ay": 6
+ },
+ {
+  "index": 63,
+  "name": "vehicle_t4_S",
+  "w": 16,
+  "h": 13,
+  "ax": 5,
+  "ay": 6
+ },
+ {
+  "index": 64,
+  "name": "vehicle_t4_SW",
+  "w": 16,
+  "h": 12,
+  "ax": 7,
+  "ay": 6
+ },
+ {
+  "index": 65,
+  "name": "vehicle_t4_W",
+  "w": 16,
+  "h": 8,
+  "ax": 7,
+  "ay": 4
+ },
+ {
+  "index": 66,
+  "name": "vehicle_t4_NW",
+  "w": 16,
+  "h": 12,
+  "ax": 7,
+  "ay": 6
+ },
+ {
+  "index": 67,
+  "name": "spikes",
+  "w": 8,
+  "h": 4,
+  "ax": 2,
+  "ay": 2
+ },
+ {
+  "index": 68,
+  "name": "mine",
+  "w": 8,
+  "h": 5,
+  "ax": 2,
+  "ay": 2
+ },
+ {
+  "index": 69,
+  "name": "citycar_N",
+  "w": 16,
+  "h": 10,
+  "ax": 8,
+  "ay": 5
+ },
+ {
+  "index": 70,
+  "name": "citycar_E",
+  "w": 16,
+  "h": 10,
+  "ax": 8,
+  "ay": 5
+ },
+ {
+  "index": 71,
+  "name": "citycar_S",
+  "w": 16,
+  "h": 10,
+  "ax": 8,
+  "ay": 5
+ },
+ {
+  "index": 72,
+  "name": "citycar_W",
+  "w": 16,
+  "h": 10,
+  "ax": 8,
+  "ay": 5
+ },
+ {
+  "index": 73,
+  "name": "bullet",
+  "w": 8,
+  "h": 2,
+  "ax": 0,
+  "ay": 0
+ },
+ {
+  "index": 74,
+  "name": "shell",
+  "w": 8,
+  "h": 4,
+  "ax": 2,
+  "ay": 2
+ },
+ {
+  "index": 75,
+  "name": "rocket_N",
+  "w": 8,
+  "h": 6,
+  "ax": 2,
+  "ay": 2
+ },
+ {
+  "index": 76,
+  "name": "rocket_NE",
+  "w": 8,
+  "h": 6,
+  "ax": 2,
+  "ay": 2
+ },
+ {
+  "index": 77,
+  "name": "rocket_E",
+  "w": 8,
+  "h": 5,
+  "ax": 5,
+  "ay": 2
+ },
+ {
+  "index": 78,
+  "name": "rocket_SE",
+  "w": 8,
+  "h": 6,
+  "ax": 2,
+  "ay": 2
+ },
+ {
+  "index": 79,
+  "name": "rocket_S",
+  "w": 8,
+  "h": 6,
+  "ax": 2,
+  "ay": 2
+ },
+ {
+  "index": 80,
+  "name": "rocket_SW",
+  "w": 8,
+  "h": 6,
+  "ax": 2,
+  "ay": 2
+ },
+ {
+  "index": 81,
+  "name": "rocket_W",
+  "w": 8,
+  "h": 5,
+  "ax": 5,
+  "ay": 2
+ },
+ {
+  "index": 82,
+  "name": "rocket_NW",
+  "w": 8,
+  "h": 6,
+  "ax": 2,
+  "ay": 2
+ },
+ {
+  "index": 83,
+  "name": "smoke_f0",
+  "w": 24,
+  "h": 17,
+  "ax": 11,
+  "ay": 8
+ },
+ {
+  "index": 84,
+  "name": "smoke_f1",
+  "w": 24,
+  "h": 17,
+  "ax": 11,
+  "ay": 8
+ },
+ {
+  "index": 85,
+  "name": "smoke_f2",
+  "w": 24,
+  "h": 17,
+  "ax": 11,
+  "ay": 8
+ },
+ {
+  "index": 86,
+  "name": "smoke_f3",
+  "w": 24,
+  "h": 17,
+  "ax": 11,
+  "ay": 8
+ },
+ {
+  "index": 87,
+  "name": "paint_f0",
+  "w": 24,
+  "h": 17,
+  "ax": 11,
+  "ay": 8
+ },
+ {
+  "index": 88,
+  "name": "paint_f1",
+  "w": 24,
+  "h": 17,
+  "ax": 11,
+  "ay": 8
+ },
+ {
+  "index": 89,
+  "name": "paint_f2",
+  "w": 24,
+  "h": 17,
+  "ax": 11,
+  "ay": 8
+ },
+ {
+  "index": 90,
+  "name": "paint_f3",
+  "w": 24,
+  "h": 17,
+  "ax": 11,
+  "ay": 8
+ },
+ {
+  "index": 91,
+  "name": "oil_slick",
+  "w": 24,
+  "h": 17,
+  "ax": 9,
+  "ay": 8
+ },
+ {
+  "index": 92,
+  "name": "flame_N",
+  "w": 16,
+  "h": 21,
+  "ax": 7,
+  "ay": 20
+ },
+ {
+  "index": 93,
+  "name": "flame_NE",
+  "w": 24,
+  "h": 18,
+  "ax": 0,
+  "ay": 18
+ },
+ {
+  "index": 94,
+  "name": "flame_E",
+  "w": 32,
+  "h": 10,
+  "ax": 0,
+  "ay": 4
+ },
+ {
+  "index": 95,
+  "name": "flame_SE",
+  "w": 24,
+  "h": 18,
+  "ax": 0,
+  "ay": 0
+ },
+ {
+  "index": 96,
+  "name": "flame_S",
+  "w": 16,
+  "h": 21,
+  "ax": 7,
+  "ay": 0
+ },
+ {
+  "index": 97,
+  "name": "flame_SW",
+  "w": 24,
+  "h": 18,
+  "ax": 23,
+  "ay": 0
+ },
+ {
+  "index": 98,
+  "name": "flame_W",
+  "w": 32,
+  "h": 10,
+  "ax": 27,
+  "ay": 4
+ },
+ {
+  "index": 99,
+  "name": "flame_NW",
+  "w": 24,
+  "h": 18,
+  "ax": 23,
+  "ay": 18
+ },
+ {
+  "index": 100,
+  "name": "fire_f0",
+  "w": 16,
+  "h": 10,
+  "ax": 7,
+  "ay": 6
+ },
+ {
+  "index": 101,
+  "name": "fire_f1",
+  "w": 16,
+  "h": 10,
+  "ax": 7,
+  "ay": 6
+ },
+ {
+  "index": 102,
+  "name": "fire_f2",
+  "w": 16,
+  "h": 10,
+  "ax": 7,
+  "ay": 6
+ },
+ {
+  "index": 103,
+  "name": "fire_f3",
+  "w": 16,
+  "h": 10,
+  "ax": 7,
+  "ay": 6
+ },
+ {
+  "index": 104,
+  "name": "citycar_NE",
+  "w": 16,
+  "h": 10,
+  "ax": 8,
+  "ay": 5
+ },
+ {
+  "index": 105,
+  "name": "citycar_SE",
+  "w": 16,
+  "h": 10,
+  "ax": 8,
+  "ay": 5
+ },
+ {
+  "index": 106,
+  "name": "citycar_SW",
+  "w": 16,
+  "h": 10,
+  "ax": 8,
+  "ay": 5
+ },
+ {
+  "index": 107,
+  "name": "citycar_NW",
+  "w": 16,
+  "h": 10,
+  "ax": 8,
+  "ay": 5
+ },
+ {
+  "index": 108,
+  "name": "collision_probe",
+  "w": 16,
+  "h": 10,
+  "ax": 5,
+  "ay": 4
+ }
+]

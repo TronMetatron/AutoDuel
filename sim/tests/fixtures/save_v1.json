@@ -1,0 +1,499 @@
+{
+ "version": 1,
+ "driver": {
+  "name": "Old Timer",
+  "money": 1170,
+  "prestige": 6,
+  "driving": 3,
+  "marksman": 3,
+  "mechanic": 0,
+  "health": 3,
+  "body_armor": 0,
+  "alive": true,
+  "clone": null,
+  "city": 14,
+  "last_city": 14,
+  "date": {
+   "day": 5,
+   "month": 1,
+   "year": 2030,
+   "weekday": 2
+  },
+  "car": 0,
+  "car_with_you": true,
+  "loaner": false,
+  "day_used": false,
+  "quest": {
+   "taken": [
+    false,
+    false,
+    false,
+    false,
+    false
+   ],
+   "carrying": null,
+   "done": [
+    false,
+    false,
+    false,
+    false,
+    false
+   ],
+   "won": false
+  },
+  "cheat": false
+ },
+ "cars": [
+  {
+   "name": "Courier",
+   "body": 0,
+   "chassis": 0,
+   "suspension": 0,
+   "plant": {
+    "kind": 0,
+    "dp": 5,
+    "max_dp": 5
+   },
+   "tires": [
+    {
+     "kind": 0,
+     "dp": 4,
+     "max_dp": 4
+    },
+    {
+     "kind": 0,
+     "dp": 4,
+     "max_dp": 4
+    },
+    {
+     "kind": 0,
+     "dp": 4,
+     "max_dp": 4
+    },
+    {
+     "kind": 0,
+     "dp": 4,
+     "max_dp": 4
+    }
+   ],
+   "armor": [
+    {
+     "pts": 10,
+     "max": 10
+    },
+    {
+     "pts": 0,
+     "max": 0
+    },
+    {
+     "pts": 0,
+     "max": 0
+    },
+    {
+     "pts": 0,
+     "max": 0
+    },
+    {
+     "pts": 0,
+     "max": 0
+    }
+   ],
+   "weapons": [
+    {
+     "kind": 0,
+     "dp": 3,
+     "max_dp": 3,
+     "mount": 0,
+     "ammo": 20
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "cargo": [
+    null,
+    null,
+    null
+   ],
+   "city": 7,
+   "battery": 70
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "loaner": null,
+ "roads": [
+  {
+   "slots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    5,
+    null
+   ]
+  },
+  {
+   "slots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "slots": [
+    null,
+    null,
+    11,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "slots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "slots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    3,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "slots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    6,
+    null,
+    null,
+    9,
+    null,
+    null
+   ]
+  },
+  {
+   "slots": [
+    6,
+    null,
+    null,
+    13,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "slots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    2,
+    null
+   ]
+  },
+  {
+   "slots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    5,
+    null,
+    null,
+    null,
+    null,
+    5,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "slots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "slots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "slots": [
+    null,
+    null,
+    null,
+    null,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    9
+   ]
+  },
+  {
+   "slots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    2,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "slots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "slots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    12,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "slots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "slots": [
+    null,
+    null,
+    null,
+    4,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    13,
+    null
+   ]
+  }
+ ],
+ "rng": {
+  "state": 1776753367
+ },
+ "aada": {
+  "date": null,
+  "offers": [
+   {
+    "cargo": 10,
+    "dest_city": 2,
+    "days": 6
+   },
+   {
+    "cargo": 32,
+    "dest_city": 1,
+    "days": 6
+   },
+   null
+  ]
+ },
+ "free_bus_ticket": false,
+ "fbi_briefed": false
+}
