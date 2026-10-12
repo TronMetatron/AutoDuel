@@ -1,4 +1,4 @@
-# AutoDuel (Cardul)
+# AutoDuel 
 
 An unofficial, open-source remake of Origin Systems' *Autoduel* (1985) in Rust: drive the
 highways of 2030, run courier jobs, fight in the arena and build your own armed car. The game
