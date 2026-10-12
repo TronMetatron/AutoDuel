@@ -1,5 +1,5 @@
 # AutoDuel 
-<img width="1280" height="672" alt="image" src="https://github.com/user-attachments/assets/da345105-6cd1-4048-bf30-58a0a9855dd2" />
+<img width="1586" height="992" alt="image" src="https://github.com/user-attachments/assets/e58c465f-f0e5-4201-af71-6f0068b92eb7" />
 
 
 An unofficial, open-source remake of Origin Systems' *Autoduel* (1985) in Rust: drive the
