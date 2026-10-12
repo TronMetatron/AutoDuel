@@ -1,4 +1,6 @@
 # AutoDuel 
+<img width="1280" height="672" alt="image" src="https://github.com/user-attachments/assets/da345105-6cd1-4048-bf30-58a0a9855dd2" />
+
 
 An unofficial, open-source remake of Origin Systems' *Autoduel* (1985) in Rust: drive the
 highways of 2030, run courier jobs, fight in the arena and build your own armed car. The game
